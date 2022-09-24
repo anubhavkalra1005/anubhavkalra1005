@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @anubhavkalra1005
 - :school: Education : BCA (Bachelor of Computer Application)
 - :book: Skills : HTML, CSS, C/C++, Core Java and Advanced Java.
-- 🌱 I’m currently learning Hibernate and Spring framework.
 - 👀 About my life:
 
   while(myLife())<br />
