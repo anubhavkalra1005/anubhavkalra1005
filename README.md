@@ -5,7 +5,7 @@
 
 I'm a **Liferay Developer** with **3+ years** of experience building enterprise-level solutions using **Java**, **HTML**, **CSS**, **JavaScript**, and **jQuery**. I love working on modular architecture and crafting intuitive user experiences on **Liferay DXP/7.x**.
 
-Lately, I'm also exploring the Python ecosystem — particularly **Django**, **Pandas**, and **automation scripting**.
+Lately, I'm also exploring the Python ecosystem — particularly **React.js**, **Node.js**, **Express.js** **Django**, **Pandas**, and **automation scripting**.
 
 ---
 
